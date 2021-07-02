@@ -14,7 +14,7 @@ Documentation: https://nanomesh.readthedocs.io/en/latest/
 If you use conda, create a new environment:
 
 ```
-conda create -n nanomesh python=3.8
+conda create -n nanomesh python=3.9
 conda activate nanomesh
 ```
 

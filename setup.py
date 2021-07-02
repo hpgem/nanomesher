@@ -37,6 +37,7 @@ setup(
         'Natural Language :: English',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
     ],
     install_requires=[
         'IPython!=7.23',  # 7.23 contains a bug that prevents matplotlib inline
